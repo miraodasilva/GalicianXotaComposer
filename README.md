@@ -2,9 +2,9 @@
 This repository contains the implementation of the model mentioned in our paper "Automated  composition  of  Galician Xota –  tuning  RNN-based composers  for  specific  musical  styles  using  Deep  Q-Learning"
 
 ## Generated piece
-[mp3](/midi_piece/full_piece.mp3)
+[mp3](https://github.io/miraodasilva/GalicianXotaComposer/midi_piece/full_piece.mp3)
 
-## Requirements[elephant](/001.mp3)
+## Requirements
 
 - Ubuntu 16.04
 - Python 2.7
