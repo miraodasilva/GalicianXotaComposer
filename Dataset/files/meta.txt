@@ -1,0 +1,497 @@
+Name: Jota do Barrio do Ceo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-do-barrio-do-ceo/jota-do-barrio-do-ceo-partitura/@@display-file/midi/Jota%20do%20Barrio%20do%20Ceo.midi , File: 0.mid, Tracks: 2, Length: 27.2727 
+Name: Jota de Vilar de Cabeiras - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-vilar-de-cabeiras/jota-de-vilar-de-cabeiras-partitura/@@display-file/midi/Jota%20de%20Vilar%20de%20Cabeiras.midi , File: 1.mid, Tracks: 1, Length: 38.0 
+Name: Jota de Vilar de Cabeiras - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-vilar-de-cabeiras/jota-de-vilar-de-cabeiras-partitura-1/@@display-file/midi/Jota%20de%20Vilar%20de%20Cabeiras.midi , File: 2.mid, Tracks: 1, Length: 25.0 
+Name: Jota da Carcacía - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-carcacia/jota-da-carcacia-partitura/@@display-file/midi/Jota%20da%20Carcac%C3%ADa.midi , File: 3.mid, Tracks: 2, Length: 56.85 
+Name: Jota dos Alegres - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-dos-alegres/jota-dos-alegres-partitura/@@display-file/midi/Jota%20dos%20Alegres.midi , File: 4.mid, Tracks: 2, Length: 56.85 
+Name: Jota de Boimorto - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-boimorto/jota-de-boimorto-partitura-1/@@display-file/midi/Jota%20de%20Boimorto.midi , File: 5.mid, Tracks: 2, Length: 51.666615 
+Name: Jota de Boimorto - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-boimorto/jota-de-boimorto-partitura-2/@@display-file/midi/Jota%20de%20Boimorto.midi , File: 6.mid, Tracks: 2, Length: 40.390116 
+Name: Jota de Boimorto - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-boimorto/jota-de-boimorto-partitura/@@display-file/midi/Jota%20de%20Boimorto.midi , File: 7.mid, Tracks: 2, Length: 39.09087 
+Name: Jota de Ferreira de Pantón - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ferreira-de-panton/jota-de-ferreira-de-panton-partitura/@@display-file/midi/Jota%20de%20Ferreira%20de%20Pant%C3%B3n.midi , File: 8.mid, Tracks: 1, Length: 57.27267 
+Name: Jota do Saviñao - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-do-savinao/jota-do-savinao-partitura/@@display-file/midi/Jota%20do%20Savi%C3%B1ao.midi , File: 9.mid, Tracks: 2, Length: 39.199902 
+Name: Jota de Santiago de Miraz - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-santiago-de-miraz/jota-de-santiago-de-miraz-partitura/@@display-file/midi/Jota%20de%20Santiago%20de%20Miraz.midi , File: 10.mid, Tracks: 1, Length: 70.153776 
+Name: Jota do Val de Xestoso - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-do-val-de-xestoso/jota-do-val-de-xestoso-partitura/@@display-file/midi/Jota%20do%20Val%20de%20Xestoso.midi , File: 11.mid, Tracks: 1, Length: 42.545412 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-29/jota-partitura/@@display-file/midi/Jota.midi , File: 12.mid, Tracks: 1, Length: 49.363587 
+Name: Jota de Tui - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-tui/jota-de-tui-partitura-1/@@display-file/midi/Jota%20de%20Tui.midi , File: 13.mid, Tracks: 1, Length: 36.160695 
+Name: Jota de Tui - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-tui/jota-de-tui-partitura/@@display-file/midi/Jota%20de%20Tui.midi , File: 14.mid, Tracks: 1, Length: 28.428543 
+Name: Blanca o Negra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/blanca-o-negra/blanca-o-negra-partitura/@@display-file/midi/Blanca%20o%20Negra.midi , File: 15.mid, Tracks: 2, Length: 37.95 
+Name: Blanca o Negra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/blanca-o-negra/blanca-o-negra-partitura-1/@@display-file/midi/Blanca%20o%20Negra.midi , File: 16.mid, Tracks: 2, Length: 44.1 
+Name: Jota de Pol - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pol/jota-de-pol-partitura/@@display-file/midi/Jota%20Pol.midi , File: 17.mid, Tracks: 1, Length: 29.99997 
+Name: Jota do Alledo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-do-alledo/jota-do-alledo-partitura/@@display-file/midi/Jota%20do%20Alledo.midi , File: 18.mid, Tracks: 1, Length: 39.6 
+Name: Jota dos 28 puntos - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-dos-28-puntos/jota-dos-28-puntos-partitura-1/@@display-file/midi/Jota%20dos%2028%20puntos.midi , File: 19.mid, Tracks: 1, Length: 41.363595 
+Name: Jota dos 28 Puntos - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-dos-28-puntos/jota-dos-28-puntos-partitura/@@display-file/midi/Jota%20dos%2028%20Puntos.midi , File: 20.mid, Tracks: 1, Length: 54.3 
+Name: Jota de Son - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-son-1/jota-de-son-partitura-1/@@display-file/midi/Jota%20de%20Son.midi , File: 21.mid, Tracks: 1, Length: 44.181774 
+Name: Jota de Son - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-son-1/jota-de-son-partitura/@@display-file/midi/Jota%20de%20Son.midi , File: 22.mid, Tracks: 1, Length: 53.454492 
+Name: Jota de Corneantes - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-corneantes/jota-de-corneantes-partitura-1/@@display-file/midi/Jota%20de%20Corneantes.midi , File: 23.mid, Tracks: 1, Length: 79.411725 
+Name: Jota de Corneantes - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-corneantes/jota-de-corneantes-partitura-2/@@display-file/midi/Jota%20de%20Corneantes.midi , File: 24.mid, Tracks: 1, Length: 35.181783 
+Name: Jota de Corneantes - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-corneantes/jota-de-corneantes-partitura-3/@@display-file/midi/Jota%20de%20Corneantes.midi , File: 25.mid, Tracks: 2, Length: 73.058787 
+Name: Jota de Corneantes - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-corneantes/jota-de-corneantes-partitura/@@display-file/midi/Jota%20de%20Corneantes.midi , File: 26.mid, Tracks: 1, Length: 47.8694615 
+Name: Rapaza, que tes? - Partitura , Link: https://folkotecagalega.com/pezas/jotas/rapaza-que-tes/rapaza-que-tes-partitura/@@display-file/midi/Rapaza,%20que%20tes?.midi , File: 27.mid, Tracks: 2, Length: 48.875 
+Name: O paporroibo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/o-paporroibo/o-paporrubio-partitura/@@display-file/midi/O%20papororoibo.midi , File: 28.mid, Tracks: 1, Length: 37.625 
+Name: Jota de Cures - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-cures/jota-de-cures-partitura-1/@@display-file/midi/Jota%20de%20Cures.midi , File: 29.mid, Tracks: 1, Length: 70.363566 
+Name: Jota de Cures - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-cures/jota-de-cures-partitura/@@display-file/midi/Jota%20de%20Cures.midi , File: 30.mid, Tracks: 1, Length: 32.288099 
+Name: Jota de San Xián de Freixo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-san-xian-de-freixo/jota-de-san-xian-de-freixo-partitura/@@display-file/midi/Jota%20de%20San%20Xi%C3%A1n%20de%20Freixo.midi , File: 31.mid, Tracks: 1, Length: 43.44 
+Name: Jota da Fonsagrada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-fonsagrada-3/jota-da-fonsagrada-partitura/@@display-file/midi/Jota%20da%20Fonsagrada.midi , File: 32.mid, Tracks: 1, Length: 39.4090515 
+Name: Jota de San Pedro de Río - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-san-pedro-de-rio/jota-de-san-pedro-de-rio-partitura/@@display-file/midi/Jota%20de%20San%20Pedro%20de%20R%C3%ADo.midi , File: 33.mid, Tracks: 1, Length: 59.727213 
+Name: Jota de Oirós - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-oiros/jota-de-oiros-partitura/@@display-file/midi/Jota%20Oir%C3%B3s.midi , File: 34.mid, Tracks: 1, Length: 60.545394 
+Name: Jota de Cabra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-cabra/jota-de-cabra-partitura/@@display-file/midi/Jota%20de%20Cabra.midi , File: 35.mid, Tracks: 2, Length: 41.6086055 
+Name: Jota da Fonsagrada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-fonsagrada-2/jota-da-fonsagrada-partitura/@@display-file/midi/Jota%20da%20Fonsagrada.midi , File: 36.mid, Tracks: 2, Length: 54.1363095 
+Name: Jota da Fonsagrada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-fonsagrada-1/jota-da-fonsagrada-partitura/@@display-file/midi/Jota%20da%20Fonsagrada.midi , File: 37.mid, Tracks: 1, Length: 32.8636035 
+Name: Jota de Sergio - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-2/jota-de-sergio-partitura/@@display-file/midi/Jota%20de%20Sergio.midi , File: 38.mid, Tracks: 1, Length: 55.8 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-2/jota-partitura/@@display-file/midi/Jota.midi , File: 39.mid, Tracks: 1, Length: 42.875 
+Name: La Manuela - Partitura , Link: https://folkotecagalega.com/pezas/jotas/la-manuela/la-manuela-partitura/@@display-file/midi/La%20Manuela.midi , File: 40.mid, Tracks: 1, Length: 51.545403 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-27/jota-partitura/@@display-file/midi/Jota.midi , File: 41.mid, Tracks: 2, Length: 53.454492 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-26/jota-partitura/@@display-file/midi/Jota.midi , File: 42.mid, Tracks: 1, Length: 42.875 
+Name: Lembranzas de Soutelo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/lembranzas-de-soutelo/lembranzas-de-soutelo-partitura/@@display-file/midi/Lembranzas%20de%20Soutelo.midi , File: 43.mid, Tracks: 1, Length: 42.6 
+Name: Lembranzas de Soutelo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/lembranzas-de-soutelo/lembranzas-de-soutelo-partitura-1/@@display-file/midi/Lembranzas%20de%20Soutelo.midi , File: 44.mid, Tracks: 1, Length: 27.1363365 
+Name: Jota de Xestoso de Lor - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-xestoso-de-lor-1/jota-de-xestoso-de-lor-partitura/@@display-file/midi/Jota%20de%20Xestoso%20de%20Lor.midi , File: 45.mid, Tracks: 1, Length: 42.818139 
+Name: Adiós meu homiño - Partitura , Link: https://folkotecagalega.com/pezas/jotas/adios-meu-homino/adios-meu-homino-partitura/@@display-file/midi/Adi%C3%B3s%20meu%20homi%C3%B1o.midi , File: 46.mid, Tracks: 1, Length: 44.7390335 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-25/jota-partitura/@@display-file/midi/Jota.midi , File: 47.mid, Tracks: 1, Length: 43.363593 
+Name: Jota cuadrada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-cuadrada/jota-cuadrada-partitura/@@display-file/midi/Jota%20cuadrada.midi , File: 48.mid, Tracks: 1, Length: 46.05 
+Name: Jota Requinteada de Paulino - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-requinteada-de-paulino/jota-requinteada-de-paulino-partitura/@@display-file/midi/Jota%20Requinteada%20de%20Paulino.midi , File: 49.mid, Tracks: 1, Length: 29.5 
+Name: Jota Requinteada de Paulino - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-requinteada-de-paulino/jota-requinteada-de-paulino-partitura-1/@@display-file/midi/Jota%20Requinteada%20de%20Paulino.midi , File: 50.mid, Tracks: 2, Length: 51.6817665 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-24/jota-partitura/@@display-file/midi/Jota.midi , File: 51.mid, Tracks: 1, Length: 55.7726715 
+Name: Xota para mi abuela - Partitura , Link: https://folkotecagalega.com/pezas/jotas/xota-para-mi-abuela/xota-para-mi-abuela-partitura/@@display-file/midi/Xota%20para%20mi%20abuela.midi , File: 52.mid, Tracks: 1, Length: 112.907557547 
+Name: Jota de Pacios - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pacios/jota-de-pacios-partitura/@@display-file/midi/Jota%20de%20Pacios.midi , File: 53.mid, Tracks: 2, Length: 78.6817395 
+Name: Jota de Folgoso - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-folgoso-1/jota-de-folgoso-partitura/@@display-file/midi/Jota%20de%20Folgoso.midi , File: 54.mid, Tracks: 2, Length: 42.6817755 
+Name: Jota de Visantoña - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-visantona/jota-de-visantona-partitura/@@display-file/midi/Jota%20de%20Visanto%C3%B1a.midi , File: 55.mid, Tracks: 1, Length: 54.1363095 
+Name: Na Franqueira - Partitura , Link: https://folkotecagalega.com/pezas/jotas/na-franqueira/na-franqueira-partitura/@@display-file/midi/Na%20Franqueira.midi , File: 56.mid, Tracks: 1, Length: 34.5 
+Name: Ó saír para a romaría - Partitura , Link: https://folkotecagalega.com/pezas/jotas/o-sair-para-a-romaria/o-sair-para-a-romaria-partitura-1/@@display-file/midi/%C3%93%20sa%C3%ADr%20para%20a%20romar%C3%ADa.midi , File: 57.mid, Tracks: 1, Length: 78.333255 
+Name: Ó saír para a romaría - Partitura , Link: https://folkotecagalega.com/pezas/jotas/o-sair-para-a-romaria/o-sair-para-a-romaria-partitura/@@display-file/midi/%C3%93%20sa%C3%ADr%20para%20a%20romar%C3%ADa.midi , File: 58.mid, Tracks: 1, Length: 34.5 
+Name: Jota de Soutelo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-soutelo/jota-de-soutelo-partitura/@@display-file/midi/Jota%20de%20Soutelo.midi , File: 59.mid, Tracks: 1, Length: 28.636335 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-4/jota-partitura/@@display-file/midi/Jota.midi , File: 60.mid, Tracks: 2, Length: 28.636335 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-21/jota-partitura/@@display-file/midi/Jota.midi , File: 61.mid, Tracks: 2, Length: 50.8635855 
+Name: Jota do Vilarón - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-do-vilaron/jota-do-vilaron-partitura/@@display-file/midi/Jota%20do%20Vilar%C3%B3n.midi , File: 62.mid, Tracks: 1, Length: 41.727231 
+Name: Jota de Laracha - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-laracha/jota-de-laracha-partitura/@@display-file/midi/Jota%20de%20Laracha.midi , File: 63.mid, Tracks: 1, Length: 44.1 
+Name: Jota de Farelo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-farelo/jota-de-farelo-partitura/@@display-file/midi/Jota%20de%20Farelo.midi , File: 64.mid, Tracks: 1, Length: 53.181765 
+Name: Jota de Beigondo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-beigondo/jota-de-beigondo-partitura/@@display-file/midi/Jota%20de%20Beigondo.midi , File: 65.mid, Tracks: 1, Length: 48.4090425 
+Name: Jota da Cruña - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-cruna/jota-da-cruna-partitura/@@display-file/midi/Jota%20da%20Cru%C3%B1a.midi , File: 66.mid, Tracks: 1, Length: 57.6085925 
+Name: Jota a miña galega - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-a-mina-galega/jota-a-mina-galega-partitura/@@display-file/midi/Jota%20a%20mi%C3%B1a%20galega.midi , File: 67.mid, Tracks: 1, Length: 54.1363095 
+Name: Jota para Sotelino - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-para-sotelino/jota-para-sotelino-partitura/@@display-file/midi/Jota%20para%20Sotelino.midi , File: 68.mid, Tracks: 2, Length: 78.333255 
+Name: Jota de Espiñarcao - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-espinarcao/jota-de-espinarcao-partitura/@@display-file/midi/Jota%20de%20Espi%C3%B1arcao.midi , File: 69.mid, Tracks: 2, Length: 73.95 
+Name: Jota de Emilio - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-13/jota-de-emilio-partitura/@@display-file/midi/Jota%20de%20Emilio.midi , File: 70.mid, Tracks: 1, Length: 94.2271785 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-13/jota-partitura/@@display-file/midi/Jota.midi , File: 71.mid, Tracks: 2, Length: 66.272661 
+Name: Jota Roubada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-roubada/jota-roubada-partitura-1/@@display-file/midi/Jota%20Roubada.midi , File: 72.mid, Tracks: 1, Length: 55.090854 
+Name: Jota Roubada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-roubada/jota-roubada-partitura/@@display-file/midi/Jota%20Roubada.midi , File: 73.mid, Tracks: 2, Length: 31.2272415 
+Name: Jota de Lobios - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-lobios/jota-de-lobios-partitura/@@display-file/midi/Jota%20de%20Lobios.midi , File: 74.mid, Tracks: 1, Length: 55.95 
+Name: A Muller que Capa Ós Homes - Partitura , Link: https://folkotecagalega.com/pezas/jotas/a-muller-que-capa-os-homes/a-muller-que-capa-os-homes-partitura/@@display-file/midi/A%20Muller%20que%20Capa%20%C3%93s%20Homes.midi , File: 75.mid, Tracks: 1, Length: 70.4999295 
+Name: Jota de Arbo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-arbo/jota-de-arbo-partitura/@@display-file/midi/Jota%20de%20Arbo.midi , File: 76.mid, Tracks: 2, Length: 79.363557 
+Name: Rabiera , Link: https://folkotecagalega.com/pezas/jotas/rabiera/rabiera/@@display-file/midi/Rabiera.midi , File: 77.mid, Tracks: 2, Length: 37.7726895 
+Name: Jota do Pia Páxaro , Link: https://folkotecagalega.com/pezas/jotas/jota-do-pia-paxaro/jota-do-pia-paxaro/@@display-file/midi/Jota%20do%20Pia%20P%C3%A1xaro.midi , File: 78.mid, Tracks: 1, Length: 24.25 
+Name: Terra Meiga - Partitura , Link: https://folkotecagalega.com/pezas/jotas/terra-meiga/terra-meiga-partitura/@@display-file/midi/Terra%20meiga.midi , File: 79.mid, Tracks: 1, Length: 51.20676 
+Name: Fogueteira - Partitura , Link: https://folkotecagalega.com/pezas/jotas/fogueteira/fogueteira-partitura/@@display-file/midi/Fogueteira.midi , File: 80.mid, Tracks: 1, Length: 37.090872 
+Name: Jota de Leitariegos - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-leitariegos/jota-de-leitariegos-partitura/@@display-file/midi/Jota%20de%20Leitariegos.midi , File: 81.mid, Tracks: 2, Length: 53.181765 
+Name: Jota Requinteada de Seivane - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-requinteada-de-seivane/jota-requinteada-de-seivane-partitura/@@display-file/midi/Jota%20Requinteada%20de%20Seivane.midi , File: 82.mid, Tracks: 1, Length: 50.0454045 
+Name: Jota de Millarada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-millarada/jota-de-millarada-partitura/@@display-file/midi/Jota%20de%20Millarada.midi , File: 83.mid, Tracks: 1, Length: 60.545394 
+Name: Jota dos Ancares - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-dos-ancares/jota-dos-ancares-partitura/@@display-file/midi/Jota%20dos%20Ancares.midi , File: 84.mid, Tracks: 2, Length: 53.3181285 
+Name: Jota de Quindous - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-quindous/jota-de-quindous-partitura/@@display-file/midi/Jota%20de%20Quindous.midi , File: 85.mid, Tracks: 1, Length: 35.181783 
+Name: Foliada do Xosé - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-quindous/foliada-do-xose-partitura/@@display-file/midi/Foliada%20do%20Xos%C3%A9.midi , File: 86.mid, Tracks: 1, Length: 22.4999775 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-20/jota-partitura/@@display-file/midi/Jota.midi , File: 87.mid, Tracks: 1, Length: 74.727198 
+Name: Jota de Ordes - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ordes-1/jota-de-ordes-partitura/@@display-file/midi/Jota%20de%20Ordes.midi , File: 88.mid, Tracks: 2, Length: 42.545412 
+Name: Jota das Muiñas - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-das-muinas/jota-das-muinas-partitura/@@display-file/midi/Jota%20das%20Mui%C3%B1as.midi , File: 89.mid, Tracks: 2, Length: 92.9544525 
+Name: Jota de Arbo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-arbo-1/jota-de-arbo-partitura/@@display-file/midi/Jota%20de%20Arbo.midi , File: 90.mid, Tracks: 1, Length: 40.2272325 
+Name: Jota de Malpica - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-malpica/jota-de-malpica-partitura/@@display-file/midi/Jota%20de%20Malpica.midi , File: 91.mid, Tracks: 2, Length: 138.75 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-12/jota-partitura/@@display-file/midi/Jota.midi , File: 92.mid, Tracks: 2, Length: 104.0453505 
+Name: Jota da Fonsagrada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-fonsagrada/jota-da-fonsagrada-partitura/@@display-file/midi/Jota.midi , File: 93.mid, Tracks: 1, Length: 53.181765 
+Name: Jota da Fonsagrada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-fonsagrada/jota-da-fonsagrada-partitura-1/@@display-file/midi/Jota%20da%20Fonsagrada.midi , File: 94.mid, Tracks: 1, Length: 40.625 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-6/jota-partitura-1/@@display-file/midi/Jota.midi , File: 95.mid, Tracks: 1, Length: 23.375 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-6/jota-partitura/@@display-file/midi/Jota.midi , File: 96.mid, Tracks: 1, Length: 41.375 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-19/jota-partitura/@@display-file/midi/Jota.midi , File: 97.mid, Tracks: 1, Length: 47.951637 
+Name: Jota de Ourense - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ourense/jota-de-ourense-partitura-1/@@display-file/midi/Jota%20de%20Ourense.midi , File: 98.mid, Tracks: 1, Length: 37.090872 
+Name: Jota de Ourense - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ourense/jota-de-ourense-partitura/@@display-file/midi/Jota%20de%20Ourense.midi , File: 99.mid, Tracks: 1, Length: 41.55 
+Name: Jota de Mercurín - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ordes/jota-de-mercurin-partitura/@@display-file/midi/Jota%20de%20Mercur%C3%ADn.midi , File: 100.mid, Tracks: 1, Length: 29.727243 
+Name: Jota de Ordes - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ordes/jota-de-ordes-partitura/@@display-file/midi/Jota%20de%20Ordes.midi , File: 101.mid, Tracks: 1, Length: 123.75 
+Name: Jota das Hortas - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-das-hortas/jota-das-hortas-partitura/@@display-file/midi/Jota%20das%20Hortas.midi , File: 102.mid, Tracks: 1, Length: 40.90905 
+Name: Jota de Menduiña - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-menduina/jota-de-menduina-partitura/@@display-file/midi/Jota%20de%20Mendui%C3%B1a.midi , File: 103.mid, Tracks: 1, Length: 37.090872 
+Name: Jota da Tomada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-tomada/jota-da-tomada-partitura/@@display-file/midi/Jota%20da%20Tomada.midi , File: 104.mid, Tracks: 1, Length: 41.0454135 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-17/jota-partitura/@@display-file/midi/Jota.midi , File: 105.mid, Tracks: 1, Length: 42.545412 
+Name: A Regueifa - Partitura , Link: https://folkotecagalega.com/pezas/jotas/a-regueifa/a-regueifa-partitura/@@display-file/midi/A%20Regueifa.midi , File: 106.mid, Tracks: 1, Length: 38.727234 
+Name: Chouteira do Lérez - Partitura , Link: https://folkotecagalega.com/pezas/jotas/chouteira-do-lerez/chouteira-do-lerez-partitura/@@display-file/midi/Chouteira%20do%20L%C3%A9rez.midi , File: 107.mid, Tracks: 2, Length: 78.6817395 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-16/jota-partitura/@@display-file/midi/Jota.midi , File: 108.mid, Tracks: 1, Length: 136.872814 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-15/jota-partitura/@@display-file/midi/Jota.midi , File: 109.mid, Tracks: 2, Length: 174.3 
+Name: Jota de Bacariza - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-taboada/jota-de-bacariza-partitura/@@display-file/midi/Jota%20de%20Bacariza.midi , File: 110.mid, Tracks: 1, Length: 175.2332652 
+Name: Jota de Taboada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-taboada/jota-de-taboada-partitura/@@display-file/midi/Jota%20de%20Taboada.midi , File: 111.mid, Tracks: 2, Length: 193.8050618 
+Name: Jota de Pacios de Mourisco - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pacios-de-mourisco/jota-de-pacios-de-mourisco-partitura/@@display-file/midi/Jota%20de%20Pacios%20de%20Mourisco.midi , File: 112.mid, Tracks: 1, Length: 84.5 
+Name: Jota de Pontevedra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra-6/jota-de-pontevedra-partitura/@@display-file/midi/Jota%20de%20Pontevedra.midi , File: 113.mid, Tracks: 1, Length: 61.363575 
+Name: Foliada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra-6/foliada-partitura/@@display-file/midi/Foliada.midi , File: 114.mid, Tracks: 2, Length: 60.42 
+Name: Jota de Poio - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-poio/jota-de-poio-partitura/@@display-file/midi/Jota%20de%20Poio.midi , File: 115.mid, Tracks: 2, Length: 109.92 
+Name: Fandango de Manuel Villanueva , Link: https://folkotecagalega.com/pezas/jotas/jota-de-poio/fandango-de-manuel-villanueva/@@display-file/midi/Fandango%20de%20Manuel%20Villanueva.midi , File: 116.mid, Tracks: 2, Length: 98.3999016 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-14/jota-partitura/@@display-file/midi/Jota.midi , File: 117.mid, Tracks: 2, Length: 81.12 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-1/jota-partitura/@@display-file/midi/Jota.midi , File: 118.mid, Tracks: 1, Length: 113.8103556 
+Name: Jota de Xermil - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-xermil/jota-de-xermil-partitura/@@display-file/midi/Jota%20de%20Xermil.midi , File: 119.mid, Tracks: 2, Length: 162.156782288 
+Name: Jota de Arabexo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-arabexo/jota-de-arabexo-partitura/@@display-file/midi/Jota%20de%20Arabexo.midi , File: 120.mid, Tracks: 1, Length: 256.62 
+Name: Jota do Roxo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-do-roxo/jota-do-roxo-partitura/@@display-file/midi/Jota%20do%20Roxo.midi , File: 121.mid, Tracks: 1, Length: 57.95 
+Name: Jota de Lucas - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-lucas/jota-de-lucas-partitura/@@display-file/midi/Jota%20de%20Lucas.midi , File: 122.mid, Tracks: 1, Length: 112.62 
+Name: Jota de Lucas - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-lucas/jota-de-lucas-partitura-1/@@display-file/midi/Jota%20de%20Lucas.midi , File: 123.mid, Tracks: 1, Length: 87.6544578 
+Name: Jota de Ribeira de Piquín - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ribeira-de-piquin/jota-de-ribeira-de-piquin-partitura/@@display-file/midi/Jota%20de%20Ribeira%20de%20Piqu%C3%ADn.midi , File: 124.mid, Tracks: 1, Length: 45.0 
+Name: Jota de Gulpilleira - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-gulpilleira-1/jota-de-gulpilleira-partitura/@@display-file/midi/Jota%20de%20Gulpilleira.midi , File: 125.mid, Tracks: 1, Length: 67.3067508 
+Name: Jota de Gulpilleira - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-gulpilleira/jota-de-gulpilleira-partitura/@@display-file/midi/Jota%20de%20Gulpilleira.midi , File: 126.mid, Tracks: 1, Length: 55.3067358 
+Name: Jota de Vilar de Conforto - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-vilar-de-conforto/jota-de-vilar-de-conforto-partitura/@@display-file/midi/Jota%20de%20Vilar%20de%20Conforto.midi , File: 127.mid, Tracks: 1, Length: 51.756608 
+Name: Jota Lucense - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-lucense/jota-lucense-partitura/@@display-file/midi/Jota%20Lucense.midi , File: 128.mid, Tracks: 1, Length: 86.714199 
+Name: Jota Lucense v2 - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-lucense/jota-lucense-v2-partitura/@@display-file/midi/Jota%20Lucense%20v2.midi , File: 129.mid, Tracks: 1, Length: 55.9428991 
+Name: Jota de Fontenla - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-fontenla/jota-de-fontenla-partitura/@@display-file/midi/Jota%20de%20Fontenla.midi , File: 130.mid, Tracks: 1, Length: 87.756668 
+Name: Jota de Sofán - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-sofan/jota-de-sofan-partitura/@@display-file/midi/Jota.midi , File: 131.mid, Tracks: 1, Length: 101.4945846 
+Name: Jota de Vilarmaior - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-vilarmaior/jota-de-vilarmaior-partitura/@@display-file/midi/Jota%20de%20Vilarmaior.midi , File: 132.mid, Tracks: 1, Length: 59.3142956 
+Name: Jota de Recelle - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-recelle/jota-de-recelle-partitura/@@display-file/midi/Jota%20de%20Recelle.midi , File: 133.mid, Tracks: 2, Length: 82.1142036 
+Name: Jota de Riomao - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-riomao/jota-de-riomao-partitura/@@display-file/midi/Jota%20de%20Riomao.midi , File: 134.mid, Tracks: 1, Length: 34.0799858 
+Name: Jota de Biobrá - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-biobra/jota-de-biobra-partitura/@@display-file/midi/Jota%20de%20Biobr%C3%A1.midi , File: 135.mid, Tracks: 1, Length: 97.636266 
+Name: Jota de Sabaxáns - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-sabaxans/jota-de-sabaxans-partitura/@@display-file/midi/Jota%20de%20Sabax%C3%A1ns.midi , File: 137.mid, Tracks: 1, Length: 30.5845848 
+Name: Xota dos Carteiros - Partitura , Link: https://folkotecagalega.com/pezas/jotas/xota-dos-carteiros/xota-dos-carteiros-partitura/@@display-file/midi/Xota%20dos%20Carteiros.midi , File: 138.mid, Tracks: 1, Length: 69.1332642 
+Name: Churrusqueira - Partitura , Link: https://folkotecagalega.com/pezas/jotas/churrusqueira/churrusqueira-partitura/@@display-file/midi/Churrusqueira.midi , File: 139.mid, Tracks: 1, Length: 33.1333002 
+Name: Jota de Abadín - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-abadin/jota-de-abadin-partitura/@@display-file/midi/Jota%20de%20Abad%C3%ADn.midi , File: 140.mid, Tracks: 1, Length: 60.1230168 
+Name: Jota de Neaño - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-neano/jota-de-neano-partitura/@@display-file/midi/Jota%20de%20Nea%C3%B1o.midi , File: 141.mid, Tracks: 1, Length: 30.5845848 
+Name: Jota da Ponte de Outeiro - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-ponte-de-outeiro-1/jota-da-ponte-de-outeiro-partitura/@@display-file/midi/Jota%20da%20Ponte%20de%20Outeiro.midi , File: 142.mid, Tracks: 1, Length: 32.9666337 
+Name: Jota de Pontevedra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra/jota-de-pontevedra-partitura/@@display-file/midi/Jota%20de%20Pontevedra.midi , File: 143.mid, Tracks: 1, Length: 25.1333082 
+Name: Jota de Albite - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-albite-1/jota-de-albite-partitura/@@display-file/midi/Jota%20de%20Albite.midi , File: 144.mid, Tracks: 2, Length: 73.1332602 
+Name: Jota de Forcarei - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-forcarei/jota-de-forcarei-partitura/@@display-file/midi/Jota%20de%20Forcarei.midi , File: 145.mid, Tracks: 2, Length: 84.1453704 
+Name: Jota de Pontevedra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra-2/jota-de-pontevedra-partitura/@@display-file/midi/Jota%20de%20Pontevedra.midi , File: 146.mid, Tracks: 1, Length: 34.434708 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-3/jota-partitura/@@display-file/midi/Jota.midi , File: 147.mid, Tracks: 1, Length: 35.2571076 
+Name: De Xermaña a Caión - Partitura , Link: https://folkotecagalega.com/pezas/jotas/de-xermana-a-caion/de-xermana-a-caion-partitura/@@display-file/midi/De%20Xerma%C3%B1a%20a%20Cai%C3%B3n.midi , File: 148.mid, Tracks: 1, Length: 32.9666337 
+Name: Jota de Moia - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-moia-1/jota-de-moia-partitura/@@display-file/midi/Jota%20de%20Moia.midi , File: 149.mid, Tracks: 2, Length: 66.1332672 
+Name: Jota de Moia - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-moia-1/jota-de-moia-partitura-1/@@display-file/midi/Jota%20de%20Moia.midi , File: 150.mid, Tracks: 1, Length: 33.1333002 
+Name: Jota de Ferreiros - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ferreiros/jota-de-ferreiros-partitura/@@display-file/midi/Jota%20de%20Ferreiros.midi , File: 151.mid, Tracks: 1, Length: 32.9666337 
+Name: Jota de Ferreiros - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-ferreiros/copy_of_jota-de-ferreiros-partitura/@@display-file/midi/Jota%20de%20Ferreiros.midi , File: 152.mid, Tracks: 1, Length: 73.1332602 
+Name: Jota de Albite - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-albite/jota-de-albite-partitura/@@display-file/midi/Jota%20de%20Albite.midi , File: 153.mid, Tracks: 1, Length: 32.9666337 
+Name: Jota de Fonmaior - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-fonmaior/jota-de-fonmaior-partitura/@@display-file/midi/Jota%20de%20Fonmaior.midi , File: 154.mid, Tracks: 1, Length: 32.9666337 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-7/jota-partitura/@@display-file/midi/Jota.midi , File: 155.mid, Tracks: 1, Length: 33.1333162 
+Name: Jota de Pontevedra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra-1/jota-de-pontevedra-partitura/@@display-file/midi/Jota%20de%20Pontevedra.midi , File: 156.mid, Tracks: 1, Length: 32.9666337 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-5/jota-partitura/@@display-file/midi/Jota.midi , File: 157.mid, Tracks: 1, Length: 35.217315 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-10/jota-partitura/@@display-file/midi/Jota.midi , File: 158.mid, Tracks: 2, Length: 75.1332582 
+Name: Jota de Friol - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-friol/jota-de-friol-partitura/@@display-file/midi/Jota%20de%20Friol.midi , File: 159.mid, Tracks: 2, Length: 99.3 
+Name: Jota de Negreira - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-negreira/jota-de-negreira-partitura/@@display-file/midi/Jota%20de%20Negreira.midi , File: 160.mid, Tracks: 2, Length: 243.1332322 
+Name: Potpourri de Paradela - Partitura , Link: https://folkotecagalega.com/pezas/jotas/potpourri-de-paradela/potpourri-de-paradela-partitura/@@display-file/midi/Potpourri%20de%20Paradela.midi , File: 161.mid, Tracks: 2, Length: 97.2 
+Name: Jota de José - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-jose/jota-de-jose-partitura/@@display-file/midi/Jota%20de%20Jos%C3%A9.midi , File: 162.mid, Tracks: 2, Length: 97.2 
+Name: Jota de San Adrián de Cobres - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-san-adrian-de-cobres/jota-de-san-adrian-de-cobres-partitura/@@display-file/midi/Jota%20de%20San%20Adri%C3%A1n%20de%20Cobres.midi , File: 163.mid, Tracks: 1, Length: 32.2 
+Name: Jota de Foxado - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-foxado/jota-de-foxado-partitura/@@display-file/midi/Jota%20de%20Foxado.midi , File: 164.mid, Tracks: 1, Length: 65.755703475 
+Name: Jota da Mahía - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-mahia/jota-da-mahia-partitura/@@display-file/midi/Jota%20da%20Mah%C3%ADa.midi , File: 165.mid, Tracks: 1, Length: 30.6461232 
+Name: Río de Anxo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/rio-de-anxo/rio-de-anxo-partitura/@@display-file/midi/R%C3%ADo%20de%20Anxo.midi , File: 166.mid, Tracks: 2, Length: 90.6460632 
+Name: A Barquiña - Partitura , Link: https://folkotecagalega.com/pezas/jotas/a-barquina/a-barquina-partitura/@@display-file/midi/A%20Barqui%C3%B1a.midi , File: 168.mid, Tracks: 1, Length: 47.739027 
+Name: Jota das Nogais - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-das-nogais/jota-das-nogais-partitura/@@display-file/midi/Jota%20das%20Nogais.midi , File: 169.mid, Tracks: 2, Length: 99.3 
+Name: Jota de Pontevedra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra-5/jota-de-pontevedra-partitura/@@display-file/midi/Jota%20de%20Pontevedra.midi , File: 170.mid, Tracks: 1, Length: 30.9333488 
+Name: Danzarica - Partitura , Link: https://folkotecagalega.com/pezas/jotas/danzarica/danzarica-partitura/@@display-file/midi/Danzarica.midi , File: 171.mid, Tracks: 2, Length: 86.9333768 
+Name: Jota de Rugueira - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-rugueira/jota-de-rugueira-partitura/@@display-file/midi/Jota%20de%20Rugueira.midi , File: 172.mid, Tracks: 2, Length: 150.24 
+Name: Jota de Pontevedra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra-3/jota-de-pontevedra-partitura/@@display-file/midi/Jota%20de%20Pontevedra.midi , File: 173.mid, Tracks: 2, Length: 274.64125 
+Name: De Marín a Vigo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/de-marin-a-vigo/de-marin-a-vigo-partitura/@@display-file/midi/De%20Mar%C3%ADn%20a%20Vigo.midi , File: 174.mid, Tracks: 2, Length: 117.12 
+Name: Jota de Paulino - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-paulino/jota-de-paulino-partitura/@@display-file/midi/Jota%20de%20Paulino.midi , File: 175.mid, Tracks: 2, Length: 108.12 
+Name: Na Ribeira de Piquín - Partitura , Link: https://folkotecagalega.com/pezas/jotas/na-ribeira-de-piquin/na-ribeira-de-piquin-partitura/@@display-file/midi/Na%20Ribeira%20de%20Piqu%C3%ADn.midi , File: 176.mid, Tracks: 2, Length: 117.12 
+Name: Jota de Outeiro - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-outeiro/jota-de-outeiro-partitura/@@display-file/midi/Jota%20de%20Outeiro.midi , File: 177.mid, Tracks: 2, Length: 123.2840256 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota/jota-partitura/@@display-file/midi/Jota.midi , File: 178.mid, Tracks: 1, Length: 117.8117058 
+Name: Jota de Portomarín - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-portomarin/jota-de-portomarin-partitura/@@display-file/midi/Jota%20de%20Portomar%C3%ADn.midi , File: 179.mid, Tracks: 1, Length: 60.75 
+Name: Aires de Carnaval - Partitura , Link: https://folkotecagalega.com/pezas/jotas/aires-de-carnaval/aires-de-carnaval-partitura/@@display-file/midi/Aires%20de%20Carnaval.midi , File: 180.mid, Tracks: 2, Length: 145.92 
+Name: A Xeitosa - Partitura , Link: https://folkotecagalega.com/pezas/jotas/a-xeitosa/a-xeitosa-partitura/@@display-file/midi/A%20Xeitosa.midi , File: 181.mid, Tracks: 2, Length: 96.3175989 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-11/jota-partitura/@@display-file/midi/Jota.midi , File: 182.mid, Tracks: 1, Length: 113.3715136 
+Name: Jota dos de Maderne - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-dos-de-maderne/jota-dos-de-maderne-partitura/@@display-file/midi/Jota%20dos%20de%20Maderne.midi , File: 183.mid, Tracks: 1, Length: 71.90625 
+Name: Jota - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-28/jota-partitura/@@display-file/midi/Jota.midi , File: 184.mid, Tracks: 2, Length: 162.9881538 
+Name: Jota Valseada - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-valseada-2/jota-valseada-partitura/@@display-file/midi/Jota%20Valseada.midi , File: 185.mid, Tracks: 2, Length: 131.3715271 
+Name: Jota de Carelle - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-carelle/jota-de-carelle-partitura/@@display-file/midi/Jota%20de%20Carelle.midi , File: 186.mid, Tracks: 2, Length: 324.1711044 
+Name: Jota de Pontevedra - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-pontevedra-4/jota-de-pontevedra-partitura/@@display-file/midi/Jota%20de%20Pontevedra.midi , File: 187.mid, Tracks: 1, Length: 176.1027314 
+Name: Jota de Berdoias - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-berdoias/jota-de-berdoias-partitura/@@display-file/midi/Jota%20de%20Berdoias.midi , File: 188.mid, Tracks: 1, Length: 128.2587594 
+Name: Jota de Lugo - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-lugo/jota-de-lugo-partitura/@@display-file/midi/Jota%20de%20Lugo.midi , File: 189.mid, Tracks: 2, Length: 189.6519378 
+Name: Jota de Moia - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-moia/jota-de-moia-partitura/@@display-file/midi/Jota%20de%20Moia.midi , File: 190.mid, Tracks: 2, Length: 102.0 
+Name: Jota de Vilar - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-vilar/jota-de-vilar-partitura/@@display-file/midi/Jota%20de%20Vilar.midi , File: 191.mid, Tracks: 1, Length: 87.54 
+Name: Jota de Montrove - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-montrove/jota-de-montrove-partitura/@@display-file/midi/Jota%20de%20Montrove.midi , File: 192.mid, Tracks: 2, Length: 358.44 
+Name: Jota da Ponte de Outeiro - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-ponte-de-outeiro/jota-da-ponte-de-outeiro-partitura/@@display-file/midi/Jota%20da%20Ponte%20de%20Outeiro.midi , File: 193.mid, Tracks: 1, Length: 145.60921225 
+Name: Jota de Cabana - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-cabana/jota-de-cabana-partitura/@@display-file/midi/Jota%20de%20Cabana.midi , File: 194.mid, Tracks: 2, Length: 131.8636012 
+Name: Jota da Guia - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-da-guia/jota-da-guia-partitura/@@display-file/midi/Jota%20da%20Guia.midi , File: 195.mid, Tracks: 1, Length: 67.999932 
+Name: Jota de Son - Partitura , Link: https://folkotecagalega.com/pezas/jotas/jota-de-son/jota-de-son-partitura/@@display-file/midi/Jota%20de%20Son.midi , File: 196.mid, Tracks: 1, Length: 60.6352638 
+Name: Alborada da Lanzada , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0002.mid , File: 197.mid, Tracks: 2, Length: 95.36 
+Name: Danza de Entroido de Santo Hadrián de Cobres , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0051.mid , File: 198.mid, Tracks: 2, Length: 88.336722 
+Name: Vira o pé (danza) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0024.mid , File: 199.mid, Tracks: 1, Length: 165.8141199 
+Name: De Ruada (foliada) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0038.mid , File: 200.mid, Tracks: 1, Length: 120.9665457 
+Name: Foliada de Luxán , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0032.mid , File: 201.mid, Tracks: 2, Length: 40.90905 
+Name: Foliada de Portosín , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0039.mid , File: 202.mid, Tracks: 1, Length: 102.8470074 
+Name: Foliada de San Cibrán , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0034.mid , File: 203.mid, Tracks: 1, Length: 38.96 
+Name: Foliada do repertorio dos Areeiras , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0035.mid , File: 204.mid, Tracks: 2, Length: 94.0284774 
+Name: Heicho de dar, queridiña (foliada) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0012.mid , File: 205.mid, Tracks: 1, Length: 101.0770848 
+Name: A xeitosa (jota galega) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0013.mid , File: 206.mid, Tracks: 1, Length: 30.8837024 
+Name: Jota da Ponte de Outeiro (2) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0052.mid , File: 207.mid, Tracks: 1, Length: 30.8837024 
+Name: Jota de Boimorto , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0046.mid , File: 208.mid, Tracks: 1, Length: 172.3085451 
+Name: Jota de Cures , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0064.mid , File: 209.mid, Tracks: 1, Length: 93.9665727 
+Name: Jota de Espiñarcao , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0044.mid , File: 210.mid, Tracks: 2, Length: 170.07 
+Name: Jota de Ferreira de Pantón , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0058.mid , File: 211.mid, Tracks: 1, Length: 104.34 
+Name: Jota de Guitizá , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0072.mid , File: 212.mid, Tracks: 2, Length: 45.1363185 
+Name: Jota de Neaño , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0050.mid , File: 213.mid, Tracks: 1, Length: 155.7427014 
+Name: Jota de Santiago de Miraz , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0055.mid , File: 214.mid, Tracks: 1, Length: 50.3825 
+Name: Jota de Tui , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0040.mid , File: 215.mid, Tracks: 1, Length: 136.0284354 
+Name: Jota do Saviñao , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0063.mid , File: 216.mid, Tracks: 2, Length: 54.2912368 
+Name: Marcha de Riotorto , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0048.mid , File: 217.mid, Tracks: 2, Length: 145.0234569 
+Name: A Balastreira (mazurca galega) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0005.mid , File: 218.mid, Tracks: 2, Length: 87.8470149 
+Name: Mazurca de Espiñarcao , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0043.mid , File: 219.mid, Tracks: 1, Length: 29.2571136 
+Name: Mazurca galega do repertorio dos Areeiras e dos
+    Rosales , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/pdf/0036.mid , File: 220.mid, Tracks: 1, Length: 84.16 
+Name: Moliñeira das Nogais , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0045.mid , File: 221.mid, Tracks: 2, Length: 56.36 
+Name: Muiñeira , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0065.mid , File: 222.mid, Tracks: 2, Length: 169.52 
+Name: Muiñeira da Ponte de Outeiro , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0060.mid , File: 223.mid, Tracks: 1, Length: 81.3 
+Name: Muiñeira de Boimorto , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0047.mid , File: 224.mid, Tracks: 1, Length: 45.1363185 
+Name: Muiñeira de Ferreira de Pantón , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0059.mid , File: 225.mid, Tracks: 1, Length: 93.2289716 
+Name: Muiñeira de Gonte , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0068.mid , File: 226.mid, Tracks: 1, Length: 71.1544743 
+Name: Muiñeira de Guitizá , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0071.mid , File: 227.mid, Tracks: 1, Length: 34.2285372 
+Name: Muiñeira de Monterrei , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0007.mid , File: 228.mid, Tracks: 2, Length: 104.7881829 
+Name: Muiñeira de Santa María de Oleiros , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0074.mid , File: 229.mid, Tracks: 2, Length: 34.1311282 
+Name: Muiñeira de Santiago de Miraz , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0056.mid , File: 230.mid, Tracks: 2, Length: 129.3175824 
+Name: Muiñeira de Sexo , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0070.mid , File: 231.mid, Tracks: 1, Length: 29.697864 
+Name: Muiñeira de Vilanova , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0006.mid , File: 232.mid, Tracks: 1, Length: 82.02 
+Name: Muiñeira de Vilantime , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0067.mid , File: 233.mid, Tracks: 2, Length: 75.3176094 
+Name: Muiñeira de Villaverde , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0066.mid , File: 234.mid, Tracks: 1, Length: 27.495698 
+Name: Muiñeira do Castrillón , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0054.mid , File: 235.mid, Tracks: 1, Length: 33.157845 
+Name: Muiñeira do repertorio dos Cinco de Galicia (1) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0075.mid , File: 236.mid, Tracks: 2, Length: 71.1924216 
+Name: Muiñeira do repertorio dos Cinco de Galicia (2) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0076.mid , File: 237.mid, Tracks: 1, Length: 88.9306323 
+Name: Muiñeira do Saviñao , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0062.mid , File: 238.mid, Tracks: 1, Length: 143.94 
+Name: Muiñeira dos Dezas , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0069.mid , File: 239.mid, Tracks: 1, Length: 117.5454232 
+Name: Xa non te quero (muiñeira) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0018.mid , File: 240.mid, Tracks: 2, Length: 105.4908036 
+Name: Na eira (pasacorredoiras) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0015.mid , File: 241.mid, Tracks: 2, Length: 96.8665698 
+Name: A volta da festa , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0011.mid , File: 242.mid, Tracks: 2, Length: 59.1503922 
+Name: Pasodoble corrido do repertorio dos Campaneiros , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0028.mid , File: 243.mid, Tracks: 1, Length: 123.4907856 
+Name: Pasodoble corrido do repertorio dos Campaneiros , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0028.mid , File: 244.mid, Tracks: 1, Length: 84.8284866 
+Name: Pasodoble de Meira , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0041.mid , File: 245.mid, Tracks: 1, Length: 50.6856816 
+Name: Pasodoble de Pol , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0001.mid , File: 246.mid, Tracks: 1, Length: 57.6314925 
+Name: Pasodoble de Santaia de Madelos , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0057.mid , File: 247.mid, Tracks: 2, Length: 131.6998683 
+Name: Pasodoble de Sobrado dos Monxes , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0037.mid , File: 248.mid, Tracks: 1, Length: 104.227827 
+Name: A carrasqueira (polka galega) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0016.mid , File: 249.mid, Tracks: 1, Length: 112.25722705 
+Name: A pequerrecha (polka galega) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0021.mid , File: 250.mid, Tracks: 2, Length: 116.526141 
+Name: Polka da Ponte de Outeiro , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0061.mid , File: 251.mid, Tracks: 2, Length: 168.2 
+Name: Polka galega do repertorio dos Areeiras , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0014.mid , File: 252.mid, Tracks: 1, Length: 187.411671 
+Name: Polka galega do repertorio dos Campaneiros , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0008.mid , File: 253.mid, Tracks: 1, Length: 130.56 
+Name: Aires de carnaval , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0022.mid , File: 254.mid, Tracks: 2, Length: 102.705831 
+Name: Aire de valse , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0017.mid , File: 255.mid, Tracks: 2, Length: 87.2665794 
+Name: Valse galego do repertorio dos Areeiras , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0033.mid , File: 256.mid, Tracks: 2, Length: 152.6116884 
+Name: Valse galego do repertorio dos Campaneiros (1) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0019.mid , File: 257.mid, Tracks: 1, Length: 38.6841525 
+Name: Valse galego do repertorio dos Campaneiros (2) , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0020.mid , File: 258.mid, Tracks: 1, Length: 58.78213805 
+Name: Valse galego do repertorio dos Rosales , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0003.mid , File: 259.mid, Tracks: 2, Length: 159.5998404 
+Name: Valse picado do repertorio dos Campaneiros , Link: http://perso.wanadoo.es/marco.velez/repertor/pezas/midi/0023.mid , File: 260.mid, Tracks: 1, Length: 178.44 
+Name: A Barquiña , Link: http://www.gaitagallega.es/images/editor/a-barquina.mid , File: 261.mid, Tracks: 1, Length: 75.8795636 
+Name: A Cachimba Dourada , Link: http://www.gaitagallega.es/images/editor/a-cachimba-dourada.mid , File: 262.mid, Tracks: 1, Length: 85.44 
+Name: A codea de pan , Link: http://www.gaitagallega.es/images/editor/a-codea-de-pan.mid , File: 263.mid, Tracks: 1, Length: 169.3728718 
+Name: A muller que capa ós homes , Link: http://www.gaitagallega.es/images/editor/a-muller-que-capa-os-homes.mid , File: 264.mid, Tracks: 2, Length: 134.4352269 
+Name: A Praza do Ferro , Link: http://www.gaitagallega.es/images/editor/a-praza-do-ferro.mid , File: 265.mid, Tracks: 2, Length: 104.7881829 
+Name: A Xeitosa , Link: http://www.gaitagallega.es/images/editor/a-xeitosa.mid , File: 266.mid, Tracks: 1, Length: 30.0 
+Name: Aforamento dunha jota de auga nun micromatraz , Link: http://www.gaitagallega.es/images/editor/aforamento-dunha-jota-de-auga-nun-micromatraz.mid , File: 267.mid, Tracks: 1, Length: 119.6439268 
+Name: Aires de Carnaval , Link: http://www.gaitagallega.es/images/editor/aires-de-carnaval.mid , File: 268.mid, Tracks: 2, Length: 33.571395 
+Name: Antoxos , Link: http://www.gaitagallega.es/images/editor/antoxos.mid , File: 269.mid, Tracks: 1, Length: 30.0 
+Name: Aquelando choias , Link: http://www.gaitagallega.es/images/editor/aquelando-choias.mid , File: 270.mid, Tracks: 2, Length: 128.0822889 
+Name: As mozas do Coto Grande , Link: http://www.gaitagallega.es/images/editor/as-mozas-do-coto-grande.mid , File: 271.mid, Tracks: 1, Length: 26.842116 
+Name: Blanca o Negra , Link: http://www.gaitagallega.es/images/editor/blanca-o-negra.mid , File: 272.mid, Tracks: 2, Length: 59.775 
+Name: Caíches , Link: http://www.gaitagallega.es/images/editor/caiches.mid , File: 273.mid, Tracks: 1, Length: 40.1999598 
+Name: Chouteira do Lerez , Link: http://www.gaitagallega.es/images/editor/chouteira-do-lerez.mid , File: 274.mid, Tracks: 1, Length: 84.9665817 
+Name: Churrusqueira , Link: http://www.gaitagallega.es/images/editor/churrusqueira.mid , File: 275.mid, Tracks: 1, Length: 138.3375 
+Name: Danza do Antroido de San Adrián de Cobres , Link: http://www.gaitagallega.es/images/editor/danza-do-antroido-de-san-adrian-de-cobres.mid , File: 276.mid, Tracks: 1, Length: 157.7293329 
+Name: Danzarica , Link: http://www.gaitagallega.es/images/editor/danzarica.mid , File: 277.mid, Tracks: 2, Length: 81.24 
+Name: De Hermaña a Caión , Link: http://www.gaitagallega.es/images/editor/de-hermana-a-caion.mid , File: 278.mid, Tracks: 2, Length: 72.16 
+Name: De Vagariño , Link: http://www.gaitagallega.es/images/editor/de-vagarino.mid , File: 279.mid, Tracks: 1, Length: 182.714103 
+Name: De Xermaña a Caión , Link: http://www.gaitagallega.es/images/editor/de-xermana-a-caion.mid , File: 280.mid, Tracks: 1, Length: 72.16 
+Name: En Belén hai moita Festa , Link: http://www.gaitagallega.es/images/editor/en-belen-hai-moita-festa.mid , File: 281.mid, Tracks: 2, Length: 126.79101475 
+Name: Festa na Eira , Link: http://www.gaitagallega.es/images/editor/festa-na-eira.mid , File: 282.mid, Tracks: 2, Length: 145.92 
+Name: Ista e miña , Link: http://www.gaitagallega.es/images/editor/ista-e-mina.mid , File: 283.mid, Tracks: 1, Length: 77.35 
+Name: Jota (Nº 350) , Link: http://www.gaitagallega.es/images/editor/jota-350.mid , File: 284.mid, Tracks: 1, Length: 110.5143686 
+Name: Jota 350 , Link: http://www.gaitagallega.es/images/editor/jota-350(1).mid , File: 285.mid, Tracks: 1, Length: 90.725 
+Name: Jota a Miña Galega , Link: http://www.gaitagallega.es/images/editor/jota-a-mina-galega(1).mid , File: 286.mid, Tracks: 1, Length: 99.857043 
+Name: Jota da Cruña , Link: http://www.gaitagallega.es/images/editor/jota-da-cruna.mid , File: 287.mid, Tracks: 2, Length: 94.0940706 
+Name: Jota da Guia , Link: http://www.gaitagallega.es/images/editor/jota-da-guia.mid , File: 288.mid, Tracks: 1, Length: 51.2 
+Name: Jota da monta±a , Link: http://www.gaitagallega.es/images/editor/jota-da-monta-a.mid , File: 289.mid, Tracks: 1, Length: 46.3614736 
+Name: Jota das Bouzas , Link: http://www.gaitagallega.es/images/editor/jota-das-bouzas.mid , File: 290.mid, Tracks: 1, Length: 50.52624 
+Name: Jota das Nogais , Link: http://www.gaitagallega.es/images/editor/jota-das-nogais.mid , File: 291.mid, Tracks: 1, Length: 243.19456 
+Name: Jota de Abadín , Link: http://www.gaitagallega.es/images/editor/jota-de-abadin.mid , File: 292.mid, Tracks: 1, Length: 73.4726538 
+Name: Jota de Albite , Link: http://www.gaitagallega.es/images/editor/jota-de-albite.mid , File: 293.mid, Tracks: 2, Length: 146.3999268 
+Name: Jota de Arabexo , Link: http://www.gaitagallega.es/images/editor/jota-de-arabexo.mid , File: 294.mid, Tracks: 2, Length: 98.9726283 
+Name: Jota de Arbo , Link: http://www.gaitagallega.es/images/editor/jota-de-arbo.mid , File: 295.mid, Tracks: 1, Length: 91.3411308 
+Name: Jota de Bacariza , Link: http://www.gaitagallega.es/images/editor/jota-de-bacariza.mid , File: 296.mid, Tracks: 1, Length: 80.823489 
+Name: Jota de Barbeito , Link: http://www.gaitagallega.es/images/editor/jota-de-barbeito.mid , File: 297.mid, Tracks: 1, Length: 70.1646708 
+Name: Jota de Beigondo , Link: http://www.gaitagallega.es/images/editor/jota-de-beigondo.mid , File: 298.mid, Tracks: 1, Length: 85.7 
+Name: Jota de Boimorto , Link: http://www.gaitagallega.es/images/editor/jota-de-boimorto.mid , File: 299.mid, Tracks: 1, Length: 120.1209632 
+Name: Jota de Carelle , Link: http://www.gaitagallega.es/images/editor/jota-de-carelle.mid , File: 300.mid, Tracks: 2, Length: 81.4940769 
+Name: Jota de Corneantes , Link: http://www.gaitagallega.es/images/editor/jota-de-corneantes.mid , File: 301.mid, Tracks: 1, Length: 53.68413 
+Name: Jota de Emilio , Link: http://www.gaitagallega.es/images/editor/jota-de-emilio.mid , File: 302.mid, Tracks: 1, Length: 82.6387078 
+Name: Jota de Farelo , Link: http://www.gaitagallega.es/images/editor/jota-de-farelo.mid , File: 303.mid, Tracks: 1, Length: 95.0470149 
+Name: Jota de Ferreiros , Link: http://www.gaitagallega.es/images/editor/jota-de-ferreiros.mid , File: 304.mid, Tracks: 2, Length: 104.37 
+Name: Jota de Feáns , Link: http://www.gaitagallega.es/images/editor/jota-de-feans.mid , File: 305.mid, Tracks: 1, Length: 109.88486235 
+Name: Jota de Flariz , Link: http://www.gaitagallega.es/images/editor/jota-de-flariz.mid , File: 306.mid, Tracks: 1, Length: 123.8469969 
+Name: Jota de Folgoso , Link: http://www.gaitagallega.es/images/editor/jota-de-folgoso.mid , File: 307.mid, Tracks: 2, Length: 116.07 
+Name: Jota de Foxado , Link: http://www.gaitagallega.es/images/editor/jota-de-foxado.mid , File: 308.mid, Tracks: 1, Length: 20.72 
+Name: Jota de Guitizá , Link: http://www.gaitagallega.es/images/editor/jota-de-guitiza.mid , File: 309.mid, Tracks: 1, Length: 20.72 
+Name: Jota de José , Link: http://www.gaitagallega.es/images/editor/jota-de-jose.mid , File: 310.mid, Tracks: 1, Length: 141.1331922 
+Name: Jota de la Madalena , Link: http://www.gaitagallega.es/images/editor/jota-de-la-madalena.mid , File: 311.mid, Tracks: 1, Length: 109.0857961 
+Name: Jota de Laracha , Link: http://www.gaitagallega.es/images/editor/jota-de-laracha.mid , File: 312.mid, Tracks: 1, Length: 74.9998875 
+Name: Jota de Lleitariegos , Link: http://www.gaitagallega.es/images/editor/jota-de-lleitariegos.mid , File: 313.mid, Tracks: 1, Length: 97.32 
+Name: Jota de Lucas , Link: http://www.gaitagallega.es/images/editor/jota-de-lucas.mid , File: 314.mid, Tracks: 1, Length: 235.9908468 
+Name: Jota de Malpica , Link: http://www.gaitagallega.es/images/editor/jota-de-malpica.mid , File: 315.mid, Tracks: 2, Length: 183.176379 
+Name: Jota de Millarada , Link: http://www.gaitagallega.es/images/editor/jota-de-millarada.mid , File: 316.mid, Tracks: 1, Length: 102.558078 
+Name: Jota de Moia , Link: http://www.gaitagallega.es/images/editor/jota-de-moia.mid , File: 317.mid, Tracks: 1, Length: 150.072 
+Name: Jota de Montrove , Link: http://www.gaitagallega.es/images/editor/jota-de-montrove.mid , File: 318.mid, Tracks: 2, Length: 180.9715643 
+Name: Jota de Neaño , Link: http://www.gaitagallega.es/images/editor/jota-de-neano.mid , File: 319.mid, Tracks: 2, Length: 81.75 
+Name: Jota de Negreira , Link: http://www.gaitagallega.es/images/editor/jota-de-negreira.mid , File: 320.mid, Tracks: 1, Length: 228.1316702 
+Name: Jota de Niñodaguia , Link: http://www.gaitagallega.es/images/editor/jota-de-ninodaguia.mid , File: 321.mid, Tracks: 1, Length: 199.2646656 
+Name: Jota de Noia , Link: http://www.gaitagallega.es/images/editor/jota-de-noia.mid , File: 322.mid, Tracks: 1, Length: 61.1724872 
+Name: Jota de Ordenes , Link: http://www.gaitagallega.es/images/editor/jota-de-ordenes.mid , File: 323.mid, Tracks: 1, Length: 77.999922 
+Name: Jota de Ourense , Link: http://www.gaitagallega.es/images/editor/jota-de-ourense.mid , File: 324.mid, Tracks: 1, Length: 225.76 
+Name: Jota de Outeiro , Link: http://www.gaitagallega.es/images/editor/jota-de-outeiro.mid , File: 325.mid, Tracks: 1, Length: 56.5060472 
+Name: Jota de Oza , Link: http://www.gaitagallega.es/images/editor/jota-de-oza.mid , File: 326.mid, Tracks: 1, Length: 75.486761 
+Name: Jota de Pacios de Mourisco , Link: http://www.gaitagallega.es/images/editor/jota-de-pacios-de-mourisco.mid , File: 327.mid, Tracks: 1, Length: 107.4723082 
+Name: Jota de Paradela , Link: http://www.gaitagallega.es/images/editor/jota-de-paradela.mid , File: 328.mid, Tracks: 1, Length: 64.6 
+Name: Jota de Pontevedra (bis) , Link: http://www.gaitagallega.es/images/editor/jota-de-pontevedra-bis.mid , File: 329.mid, Tracks: 2, Length: 103.9222816 
+Name: Jota de Pontevedra 2 , Link: http://www.gaitagallega.es/images/editor/jota-de-pontevedra-2.mid , File: 330.mid, Tracks: 2, Length: 160.9715493 
+Name: Jota de Pontevedra , Link: http://www.gaitagallega.es/images/editor/jota-de-pontevedra.mid , File: 331.mid, Tracks: 2, Length: 133.5528744 
+Name: Jota de Porto do Cabo , Link: http://www.gaitagallega.es/images/editor/jota-de-porto-do-cabo.mid , File: 332.mid, Tracks: 1, Length: 102.4723042 
+Name: Jota de Recelle , Link: http://www.gaitagallega.es/images/editor/jota-de-recelle.mid , File: 333.mid, Tracks: 1, Length: 152.7237453 
+Name: Jota de Sabela , Link: http://www.gaitagallega.es/images/editor/jota-de-sabela.mid , File: 334.mid, Tracks: 2, Length: 77.0453775 
+Name: Jota de San Adrián de Cobres , Link: http://www.gaitagallega.es/images/editor/jota-de-san-adrian-de-cobres.mid , File: 335.mid, Tracks: 2, Length: 52.285662 
+Name: Jota de San Marcos de Abegondo , Link: http://www.gaitagallega.es/images/editor/jota-de-san-marcos-de-abegondo.mid , File: 336.mid, Tracks: 2, Length: 182.04 
+Name: Jota de San Silvestre , Link: http://www.gaitagallega.es/images/editor/jota-de-san-silvestre.mid , File: 337.mid, Tracks: 1, Length: 97.63338215 
+Name: Jota de Sofán , Link: http://www.gaitagallega.es/images/editor/jota-de-sonfan.mid , File: 338.mid, Tracks: 1, Length: 99.9271728 
+Name: Jota de Son , Link: http://www.gaitagallega.es/images/editor/jota-de-son.mid , File: 339.mid, Tracks: 2, Length: 128.0822889 
+Name: Jota de Sonfán , Link: http://www.gaitagallega.es/images/editor/jota-de-sonfan(1).mid , File: 340.mid, Tracks: 1, Length: 139.9058124 
+Name: Jota de Soutelo , Link: http://www.gaitagallega.es/images/editor/jota-de-soutelo.mid , File: 341.mid, Tracks: 2, Length: 189.6704934 
+Name: Jota de Taboada , Link: http://www.gaitagallega.es/images/editor/jota-de-taboada.mid , File: 342.mid, Tracks: 2, Length: 144.1763985 
+Name: Jota de Tui , Link: http://www.gaitagallega.es/images/editor/jota-de-tui.mid , File: 343.mid, Tracks: 1, Length: 127.411701 
+Name: Jota de Vilar de Conforto , Link: http://www.gaitagallega.es/images/editor/jota-de-vilar-de-conforto.mid , File: 344.mid, Tracks: 1, Length: 121.058763 
+Name: Jota de Vilar , Link: http://www.gaitagallega.es/images/editor/jota-de-vilar.mid , File: 345.mid, Tracks: 1, Length: 43.6 
+Name: Jota de Vilarmaior , Link: http://www.gaitagallega.es/images/editor/jota-de-vilarmaior.mid , File: 346.mid, Tracks: 2, Length: 44.571384 
+Name: Jota de Xermil , Link: http://www.gaitagallega.es/images/editor/jota-de-xermil.mid , File: 347.mid, Tracks: 2, Length: 92.072804 
+Name: Jota de Xestoso do Lor , Link: http://www.gaitagallega.es/images/editor/jota-de-xestoso-do-lor.mid , File: 348.mid, Tracks: 1, Length: 130.875 
+Name: Jota del menudillo 2 , Link: http://www.gaitagallega.es/images/editor/jota-del-menudillo-2.mid , File: 349.mid, Tracks: 1, Length: 144.352869 
+Name: Jota del menudillo , Link: http://www.gaitagallega.es/images/editor/jota-del-menudillo.mid , File: 350.mid, Tracks: 1, Length: 64.9666017 
+Name: Jota do 3 , Link: http://www.gaitagallega.es/images/editor/jota-do-3.mid , File: 351.mid, Tracks: 2, Length: 130.1998698 
+Name: Jota do Ateneo , Link: http://www.gaitagallega.es/images/editor/jota-do-ateneo(1).mid , File: 352.mid, Tracks: 1, Length: 106.8817113 
+Name: Jota do Besbello , Link: http://www.gaitagallega.es/images/editor/jota-do-besbello(1).mid , File: 353.mid, Tracks: 1, Length: 136.588167 
+Name: Jota do Cebreiro , Link: http://www.gaitagallega.es/images/editor/jota-do-cebreiro(1).mid , File: 354.mid, Tracks: 1, Length: 128.0822889 
+Name: Jota do Crego , Link: http://www.gaitagallega.es/images/editor/jota-do-crego(1).mid , File: 355.mid, Tracks: 1, Length: 73.6316084 
+Name: Jota do Escano , Link: http://www.gaitagallega.es/images/editor/jota-do-escano(1).mid , File: 356.mid, Tracks: 1, Length: 158.72 
+Name: Jota do Formarigo , Link: http://www.gaitagallega.es/images/editor/jota-do-formarigo(1).mid , File: 357.mid, Tracks: 2, Length: 44.181774 
+Name: Jota do meu pai , Link: http://www.gaitagallega.es/images/editor/jota-do-meu-pai(1).mid , File: 358.mid, Tracks: 1, Length: 44.72 
+Name: Jota do Pía Paxaro , Link: http://www.gaitagallega.es/images/editor/jota-do-pia-paxaro(1).mid , File: 359.mid, Tracks: 3, Length: 171.570327 
+Name: Jota do Son , Link: http://www.gaitagallega.es/images/editor/jota-do-son(1).mid , File: 360.mid, Tracks: 1, Length: 135.1276866 
+Name: Jota do Vilarón , Link: http://www.gaitagallega.es/images/editor/jota-do-vilaron(1).mid , File: 361.mid, Tracks: 1, Length: 158.7984199 
+Name: Jota dos Lemavos , Link: http://www.gaitagallega.es/images/editor/jota-dos-lemavos.mid , File: 362.mid, Tracks: 2, Length: 111.958636 
+Name: Jota dos Mariñeiros , Link: http://www.gaitagallega.es/images/editor/jota-dos-marineiros.mid , File: 363.mid, Tracks: 2, Length: 108.8284626 
+Name: Jota galega nº 4 , Link: http://www.gaitagallega.es/images/editor/jota-galega-n-4.mid , File: 364.mid, Tracks: 1, Length: 131.25847 
+Name: Jota galega nº 5 , Link: http://www.gaitagallega.es/images/editor/jota-galega-n-5.mid , File: 365.mid, Tracks: 1, Length: 95.6999043 
+Name: Jota galega nº 6 , Link: http://www.gaitagallega.es/images/editor/jota-galega-n-6.mid , File: 366.mid, Tracks: 1, Length: 75.27 
+Name: Jota Lucense , Link: http://www.gaitagallega.es/images/editor/jota-lucense.mid , File: 367.mid, Tracks: 1, Length: 68.6727845 
+Name: Jota Muxicas , Link: http://www.gaitagallega.es/images/editor/jota-muxicas.mid , File: 368.mid, Tracks: 1, Length: 76.999923 
+Name: Jota nº 2 , Link: http://www.gaitagallega.es/images/editor/jota-n-2.mid , File: 369.mid, Tracks: 1, Length: 66.2727825 
+Name: Jota para Ourense , Link: http://www.gaitagallega.es/images/editor/jota-para-ourense.mid , File: 370.mid, Tracks: 1, Length: 97.800163 
+Name: Jota para Pastor , Link: http://www.gaitagallega.es/images/editor/jota-para-pastor.mid , File: 371.mid, Tracks: 2, Length: 139.7105822 
+Name: Jota para Sotelino , Link: http://www.gaitagallega.es/images/editor/jota-para-sotelino.mid , File: 372.mid, Tracks: 1, Length: 103.7411246 
+Name: Jota requinteada de Paulino , Link: http://www.gaitagallega.es/images/editor/jota-requinteada-de-paulino.mid , File: 373.mid, Tracks: 2, Length: 60.353511075 
+Name: Jota requinteada de Seivane , Link: http://www.gaitagallega.es/images/editor/jota-requinteada-de-seivane.mid , File: 374.mid, Tracks: 2, Length: 106.1038231 
+Name: Jota Roubada , Link: http://www.gaitagallega.es/images/editor/jota-roubada.mid , File: 375.mid, Tracks: 2, Length: 76.736727 
+Name: Jota(II) , Link: http://www.gaitagallega.es/images/editor/jota.mid , File: 376.mid, Tracks: 2, Length: 76.736727 
+Name: Jota , Link: http://www.gaitagallega.es/images/editor/jota.mid , File: 377.mid, Tracks: 2, Length: 76.736727 
+Name: Jotabé , Link: http://www.gaitagallega.es/images/editor/jotabe.mid , File: 378.mid, Tracks: 2, Length: 76.736727 
+Name: Leceriña , Link: http://www.gaitagallega.es/images/editor/lecerina.mid , File: 379.mid, Tracks: 1, Length: 70.5 
+Name: Lembranzas do Gaiteiro , Link: http://www.gaitagallega.es/images/editor/lembranzas-do-gaiteiro.mid , File: 380.mid, Tracks: 2, Length: 76.736727 
+Name: Lucecú , Link: http://www.gaitagallega.es/images/editor/lucecu.mid , File: 381.mid, Tracks: 2, Length: 76.736727 
+Name: Mariñeiro de Cambados , Link: http://www.gaitagallega.es/images/editor/marineiro-de-cambados.mid , File: 382.mid, Tracks: 2, Length: 76.736727 
+Name: Menor , Link: http://www.gaitagallega.es/images/editor/menor.mid , File: 383.mid, Tracks: 2, Length: 76.736727 
+Name: Meu Manuel , Link: http://www.gaitagallega.es/images/editor/meu-manuel.mid , File: 384.mid, Tracks: 2, Length: 76.736727 
+Name: Miruchiño , Link: http://www.gaitagallega.es/images/editor/miruchino.mid , File: 385.mid, Tracks: 2, Length: 76.736727 
+Name: Miña Maripepa , Link: http://www.gaitagallega.es/images/editor/mina-maripepa.mid , File: 386.mid, Tracks: 2, Length: 76.736727 
+Name: Mouchiño , Link: http://www.gaitagallega.es/images/editor/mouchino.mid , File: 387.mid, Tracks: 2, Length: 76.736727 
+Name: Muredaira , Link: http://www.gaitagallega.es/images/editor/muredaira.mid , File: 388.mid, Tracks: 2, Length: 76.736727 
+Name: Na Romaxe de San Fins do Castro , Link: http://www.gaitagallega.es/images/editor/na-romaxe-de-san-fins-do-castro.mid , File: 389.mid, Tracks: 2, Length: 76.736727 
+Name: No adro de Sárdoma , Link: http://www.gaitagallega.es/images/editor/no-adro-de-sardoma.mid , File: 390.mid, Tracks: 1, Length: 80.3181015 
+Name: No Miño , Link: http://www.gaitagallega.es/images/editor/no-mino.mid , File: 391.mid, Tracks: 2, Length: 76.736727 
+Name: Novo Milenium , Link: http://www.gaitagallega.es/images/editor/novo-milenium.mid , File: 392.mid, Tracks: 2, Length: 76.736727 
+Name: O Brumeigo , Link: http://www.gaitagallega.es/images/editor/o-brumeigo.mid , File: 393.mid, Tracks: 2, Length: 76.736727 
+Name: O Furabolos , Link: http://www.gaitagallega.es/images/editor/o-furabolos.mid , File: 394.mid, Tracks: 2, Length: 76.736727 
+Name: O Merlo , Link: http://www.gaitagallega.es/images/editor/o-merlo.mid , File: 395.mid, Tracks: 2, Length: 76.736727 
+Name: O poleiro , Link: http://www.gaitagallega.es/images/editor/o-poleiro.mid , File: 396.mid, Tracks: 2, Length: 76.736727 
+Name: O saír da romaría , Link: http://www.gaitagallega.es/images/editor/o-sair-da-romaria.mid , File: 397.mid, Tracks: 2, Length: 76.736727 
+Name: Pechadiño, pechadiño , Link: http://www.gaitagallega.es/images/editor/pechadino-pechadino.mid , File: 398.mid, Tracks: 2, Length: 76.736727 
+Name: Peizoquiña , Link: http://www.gaitagallega.es/images/editor/peizoquina.mid , File: 399.mid, Tracks: 2, Length: 76.736727 
+Name: Pra ningures , Link: http://www.gaitagallega.es/images/editor/pra-ningures.mid , File: 400.mid, Tracks: 2, Length: 76.736727 
+Name: Reflexos de Outrora , Link: http://www.gaitagallega.es/images/editor/reflexos-de-outrora.mid , File: 401.mid, Tracks: 1, Length: 36.9 
+Name: Remexido de jotas de Farruco Paradela , Link: http://www.gaitagallega.es/images/editor/remexido-de-jotas-de-farruco-paradela.mid , File: 402.mid, Tracks: 2, Length: 76.736727 
+Name: Romaxe , Link: http://www.gaitagallega.es/images/editor/romaxe.mid , File: 403.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Bergantiños , Link: http://www.gaitagallega.es/images/editor/ruada-de-bergantinos.mid , File: 404.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Camariñas , Link: http://www.gaitagallega.es/images/editor/ruada-de-camarinas.mid , File: 405.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Cerdeira , Link: http://www.gaitagallega.es/images/editor/ruada-de-cerdeira.mid , File: 406.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Loroño , Link: http://www.gaitagallega.es/images/editor/ruada-de-lorono.mid , File: 407.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Pontevedra , Link: http://www.gaitagallega.es/images/editor/ruada-de-pontevedra.mid , File: 408.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Rebordelo 2 , Link: http://www.gaitagallega.es/images/editor/ruada-de-rebordelo-2.mid , File: 409.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Rebordelo , Link: http://www.gaitagallega.es/images/editor/ruada-de-rebordelo.mid , File: 410.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada de Viascón , Link: http://www.gaitagallega.es/images/editor/ruada-de-viascon.mid , File: 411.mid, Tracks: 2, Length: 76.736727 
+Name: Ruada do Carramal , Link: http://www.gaitagallega.es/images/editor/ruada-do-carramal.mid , File: 412.mid, Tracks: 2, Length: 65.999934 
+Name: Saltareira , Link: http://www.gaitagallega.es/images/editor/saltareira.mid , File: 413.mid, Tracks: 2, Length: 76.736727 
+Name: Sariña, chaman a porta , Link: http://www.gaitagallega.es/images/editor/sarina-chaman-a-porta.mid , File: 414.mid, Tracks: 2, Length: 76.736727 
+Name: Saínza , Link: http://www.gaitagallega.es/images/editor/sainza.mid , File: 415.mid, Tracks: 2, Length: 76.736727 
+Name: Temprano , Link: http://www.gaitagallega.es/images/editor/temprano(1).mid , File: 416.mid, Tracks: 2, Length: 76.736727 
+Name: Terra meiga , Link: http://www.gaitagallega.es/images/editor/terra-meiga.mid , File: 417.mid, Tracks: 2, Length: 76.736727 
+Name: Trisqueliña , Link: http://www.gaitagallega.es/images/editor/trisquelina.mid , File: 418.mid, Tracks: 2, Length: 76.736727 
+Name: Troula das Rías Baixas , Link: http://www.gaitagallega.es/images/editor/troula-das-rias-baixas.mid , File: 419.mid, Tracks: 2, Length: 76.736727 
+Name: Troula de Salcedo , Link: http://www.gaitagallega.es/images/editor/troula-de-salcedo.mid , File: 420.mid, Tracks: 2, Length: 76.736727 
+Name: Troula pra catro gaiteiros , Link: http://www.gaitagallega.es/images/editor/troula-pra-catro-gaiteiros.mid , File: 421.mid, Tracks: 2, Length: 76.736727 
+Name: Volta da festa de Caroi , Link: http://www.gaitagallega.es/images/editor/volta-da-festa-de-caroi(1).mid , File: 422.mid, Tracks: 2, Length: 76.736727 
+Name: Xoaniña , Link: http://www.gaitagallega.es/images/editor/xoanina(1).mid , File: 423.mid, Tracks: 2, Length: 38.57139 
+Name: Xogos , Link: http://www.gaitagallega.es/images/editor/xogos(1).mid , File: 424.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Biobra , Link: http://www.gaitagallega.es/images/editor/xota-de-biobra(1).mid , File: 425.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Folgoso , Link: http://www.gaitagallega.es/images/editor/xota-de-folgoso(1).mid , File: 426.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Niñodaguia , Link: http://www.gaitagallega.es/images/editor/xota-de-ninodaguia(1).mid , File: 427.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Paulino , Link: http://www.gaitagallega.es/images/editor/xota-de-paulino(1).mid , File: 428.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Pontevedra (CS 350) , Link: http://www.gaitagallega.es/images/editor/xota-de-pontevedra-cs-350(1).mid , File: 429.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Pontevedra , Link: http://www.gaitagallega.es/images/editor/xota-de-pontevedra(1).mid , File: 430.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Riomao , Link: http://www.gaitagallega.es/images/editor/xota-de-riomao(1).mid , File: 431.mid, Tracks: 2, Length: 76.736727 
+Name: Xota de Xestoso do Lor , Link: http://www.gaitagallega.es/images/editor/xota-de-xestoso-do-lor(1).mid , File: 432.mid, Tracks: 2, Length: 76.736727 
+Name: Xota dos 28 puntos , Link: http://www.gaitagallega.es/images/editor/xota-dos-28-puntos(1).mid , File: 433.mid, Tracks: 2, Length: 76.736727 
+Name: Xota para Xesús , Link: http://www.gaitagallega.es/images/editor/xota-para-xesus(1).mid , File: 434.mid, Tracks: 1, Length: 59.732111 
+Name: Ó saír para a romaría , Link: http://www.gaitagallega.es/images/editor/o-sair-para-a-romaria(1).mid , File: 435.mid, Tracks: 2, Length: 76.736727 
+Name: A Laranxeira , Link: https://www.box.com/s/typ4evywd1oxywptytb3 , File: 436.gp5, Tracks: 2, Length: 76.736727 
+Name: Mazurca de Couso DO , Link: https://www.box.com/s/61v9jnf2n0xzc6y83p5d , File: 437.gp5, Tracks: 2, Length: 76.736727 
+Name: Mazurca dos Campaneiros , Link: https://www.box.com/s/aogyg69ucgjem6nq9pjo , File: 438.gp5, Tracks: 2, Length: 76.736727 
+Name: A Afonsina DO , Link: https://www.box.com/s/yhrgz93wah1zd229teeg , File: 439.gp5, Tracks: 2, Length: 76.736727 
+Name: A Camposa , Link: https://www.box.com/s/6rkimp0fhkm0ggyrkms6 , File: 440.gp5, Tracks: 2, Length: 76.736727 
+Name: A Pontebora DO , Link: https://www.box.com/s/p33f8r0269yaier7a25u , File: 441.gp5, Tracks: 2, Length: 76.736727 
+Name: Muiñeira do Areal , Link: https://www.box.com/s/btkurllgyupltgpw20u2 , File: 442.gp5, Tracks: 2, Length: 76.736727 
+Name: Muiñeira de Brincadeira , Link: https://www.box.com/s/tylz8kgbfjsogdsdyvym , File: 443.gp5, Tracks: 1, Length: 56.85 
+Name: Muiñeira de Cabana , Link: https://www.box.com/s/htcy9mo0cncc3nnkby44 , File: 444.gp5, Tracks: 1, Length: 58.92854 
+Name: Muiñeira do Espantallo , Link: https://www.box.com/s/umnlpjplrnv1sbqi71ba , File: 445.gp5, Tracks: 1, Length: 38.5 
+Name: Muiñeira de Forcarei , Link: https://www.box.com/s/6r39dt27qc701y8ue1rr , File: 446.gp5, Tracks: 2, Length: 50.25 
+Name: Muiñeira de Freixido , Link: https://www.box.com/s/2g4h9uij9xu1mrvto39p , File: 447.gp5, Tracks: 1, Length: 41.0454135 
+Name: Muiñeira de Ínsua DO , Link: https://www.box.com/s/6pfr282gb9d2g1h7y8af , File: 448.gp5, Tracks: 1, Length: 48.6520685 
+Name: Muiñeira Nº1 , Link: https://www.box.com/s/kambc8zf50xh9googweq , File: 449.gp5, Tracks: 1, Length: 26.7390725 
+Name: Muiñeira non sei o seu nome , Link: https://www.box.com/s/53kk1jr9fhzgjfuzlli0 , File: 450.gp5, Tracks: 1, Length: 55.909035 
+Name: Muiñeira Os Nogais DO , Link: https://www.box.com/s/jf8gbklu1rrrogxo5p50 , File: 451.gp5, Tracks: 2, Length: 54.480965 
+Name: Muiñeira de Pazos de Borbén , Link: https://www.box.com/s/aaeppgtr2kcql8nwg1xp , File: 452.gp5, Tracks: 1, Length: 52.4999475 
+Name: Muiñeira de Pontesampaio , Link: https://www.box.com/s/mh7y0wuz2tjy5xg4hyc9 , File: 453.gp5, Tracks: 2, Length: 54.9 
+Name: Muiñeira de Recolleita DO , Link: https://www.box.com/s/l8c9gy5lqn8ekyrq1r3r , File: 454.gp5, Tracks: 2, Length: 57.1874695 
+Name: Muiñeira Ruada DO , Link: https://www.box.com/s/dz4qvt1k93tx8mvw0k66 , File: 455.gp5, Tracks: 1, Length: 37.090872 
+Name: Muiñeira Rubias DO , Link: https://www.box.com/s/f7f1i4fhv3xys3yrx955 , File: 456.gp5, Tracks: 1, Length: 50.714235 
+Name: Muiñeira de Sabaxáns DO , Link: https://www.box.com/s/28rofm6e8qx81hauewts , File: 457.gp5, Tracks: 1, Length: 40.090869 
+Name: Muiñeira de San Salvador , Link: https://www.box.com/s/06j8m791rqe51tqz6one , File: 458.gp5, Tracks: 2, Length: 68.57136 
+Name: Muiñeira de Sarria DO , Link: https://www.box.com/s/tp08g9ewms0ba0otkfmx , File: 459.gp5, Tracks: 2, Length: 45.0 
+Name: A Raposa DO , Link: https://www.box.com/s/l4b1cviwyuks3g4luu0o , File: 460.gp5, Tracks: 2, Length: 40.285674 
+Name: Na Terra de Trasancos , Link: https://www.box.com/s/old2gpjy8g5ats1js19n , File: 461.gp5, Tracks: 2, Length: 82.428489 
+Name: Rumba de Pepe DO , Link: https://www.box.com/s/ozdo8y73yz03im3btmlt , File: 462.gp5, Tracks: 2, Length: 86.16996 
+Name: Rumba Vella DO , Link: https://www.box.com/s/a9s3m7wblp4a60m562g6 , File: 463.gp5, Tracks: 2, Length: 55.8 
+Name: Pasocorredoiras de Arnoia DO , Link: https://www.box.com/s/pyc7lo4dt8ez48yfrisg , File: 464.gp5, Tracks: 1, Length: 37.95 
+Name: Baile de verano DO , Link: https://www.box.com/s/4o8icconlvz9nisaakmy , File: 465.gp5, Tracks: 1, Length: 64.05 
+Name: O Galo D' Ouro DO , Link: https://www.box.com/s/96rd6m5mbywantilpb14 , File: 466.gp5, Tracks: 1, Length: 46.86359 
+Name: Pasodoble Tuxeiriñas , Link: https://www.box.com/s/zhtcriuoxc5ecwqg86i5 , File: 467.gp5, Tracks: 1, Length: 41.142816 
+Name: Pasodoble Ventoxiño DO , Link: https://www.box.com/s/7k0anbziudoybhhkyjld , File: 468.gp5, Tracks: 2, Length: 53.409038 
+Name: A miña Burriña DO , Link: https://www.box.com/s/009v08kvcjz8ccuthegb , File: 469.gp5, Tracks: 1, Length: 41.0454135 
+Name: Foliada de Andrea DO , Link: https://www.box.com/s/gc7hwm4yz8lpjkxl5rh7 , File: 470.gp5, Tracks: 1, Length: 40.0433915 
+Name: Foliada de Berducido DO , Link: https://www.box.com/s/f5k9iamkgyoaoi80qiqz , File: 471.gp5, Tracks: 2, Length: 63.818118 
+Name: Foliada de Elviña , Link: https://www.box.com/s/qkixrtgfzxh04k6rmsqb , File: 472.gp5, Tracks: 2, Length: 37.8 
+Name: Foliada da Ínsua DO , Link: https://www.box.com/s/i2gcactsuf1tkoodnl18 , File: 473.gp5, Tracks: 2, Length: 67.909023 
+Name: Foliada de Padrenda , Link: https://www.box.com/s/iv7m8ok9urkbryu1lj6n , File: 474.gp5, Tracks: 1, Length: 59.0453955 
+Name: Foliada de Pontevedra DO , Link: https://www.box.com/s/h26e2h8notlhfzchpit8 , File: 475.gp5, Tracks: 1, Length: 49.909041 
+Name: Foliada de Tenorio , Link: https://www.box.com/s/jmre4wwq08szrpaenj4k , File: 476.gp5, Tracks: 1, Length: 28.133263 
+Name: Foliada Xil de Cambados DO , Link: https://www.box.com/s/qvjsaiogtz2py2qzgwcg , File: 477.gp5, Tracks: 2, Length: 51.81813 
+Name: Jota de Cambados , Link: https://www.box.com/s/alrif59kxe3awbnqkyt2 , File: 478.gp5, Tracks: 1, Length: 47.454498 
+Name: Jota Cruzada , Link: https://www.box.com/s/1dejtsaw23dqkgp91kzu , File: 479.gp5, Tracks: 1, Length: 48.272679 
+Name: Jota da Mahía , Link: https://www.box.com/s/vcga4zm6sqaeyp3jcmgc , File: 480.gp5, Tracks: 2, Length: 66.545388 
+Name: Jota Muxicas DO , Link: https://www.box.com/s/niid9beuvzoyhrynvx7g , File: 481.gp5, Tracks: 1, Length: 56.999943 
+Name: Jota de Paradela DO , Link: https://www.box.com/s/fvijfa04lquw3kyoxir9 , File: 482.gp5, Tracks: 1, Length: 39.75 
+Name: No Adro de Sárdoma , Link: https://www.box.com/s/b66ysbwaa62o78gr6drt , File: 483.gp5, Tracks: 2, Length: 55.05 
+Name: Ruada de Rebordelo , Link: https://www.box.com/s/ohhk331oyqrylf4674x8 , File: 484.gp5, Tracks: 1, Length: 127.1665395 
+Name: Xota Os Nogais , Link: https://www.box.com/s/voaun40bjg01uhlcu79r , File: 485.gp5, Tracks: 2, Length: 74.31389 
+Name: Xota Roubada , Link: https://www.box.com/s/ztrikzt1ugaq0erqcjjq , File: 486.gp5, Tracks: 2, Length: 38.454507 
+Name: Aparta loureiro verde DO , Link: https://www.box.com/s/kjfksb6ov4ru2bhbsuh5 , File: 487.gp5, Tracks: 1, Length: 42.3912125 
+Name: Catro vellos mariñeiros DO , Link: https://www.box.com/s/jc8gt7wbu5ifz3244044 , File: 488.gp5, Tracks: 2, Length: 50.0454045 
+Name: Da la dá da banda do río , Link: https://www.box.com/s/29vo6grtkvnt80u79mut , File: 489.gp5, Tracks: 2, Length: 40.090869 
+Name: Vals dos Vellos DO , Link: https://www.box.com/s/5jld9g3nyxu7wcgapxxv , File: 490.gp5, Tracks: 1, Length: 56.1 
+Name: A Cachimba Dourada , Link: https://www.box.com/s/xlr8mmhrd2h9bz40dioe , File: 491.gp5, Tracks: 1, Length: 51.6817665 
+Name: Agachadiña , Link: https://www.box.com/s/i3q15c7z5qhr8y7qwbw2 , File: 492.gp5, Tracks: 1, Length: 45.1363185 
+Name: Brétemas Vagas , Link: https://www.box.com/s/stwmamh67ga398peqn74 , File: 493.gp5, Tracks: 1, Length: 39.25 
+Name: Golpe de Carballiño , Link: https://www.box.com/s/ffbmut8daq9uik3y99k6 , File: 494.gp5, Tracks: 1, Length: 38.55 
+Name: Marcha Procesional de San Benito , Link: https://www.box.com/s/s8bg3stvm1b0gb1tq2g6 , File: 495.gp5, Tracks: 1, Length: 68.0453865 
+Name: Polca da Mahía  , Link: https://www.box.com/s/mh7pj92xcyvcrkrr2fzg , File: 496.gp5, Tracks: 2, Length: 54.1363095 
+Name: Ribeirana de Pontevedra , Link: https://www.box.com/s/jyshrm6946oqfonnz9l8 , File: 497.gp5, Tracks: 1, Length: 53.3181285 

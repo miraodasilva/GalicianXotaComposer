@@ -1,0 +1,28 @@
+FLAGS:
+just_generate:   False
+helpfull:   False
+training_data_path:   
+output_every_nth:   50000
+help:   False
+algorithm:   q
+note_rnn_checkpoint_dir:   /vol/gpudata/rs2517/venv1/myApp/checkpoints_revised/galician
+helpshort:   False
+h:   False
+note_rnn_checkpoint_name:   note_rnn.ckpt
+attention:   False
+exploration_mode:   egreedy
+midi_primer:   None
+reward_mode:   galician_only
+reward_scaler:   2.0
+exploration_steps:   500000
+num_notes_in_melody:   96
+note_rnn_type:   basic_rnn
+training_steps:   1000000
+section:   A
+output_dir:   /vol/gpudata/rs2517/venv1/myApp/outputs_revised/RL_TUNER_2//galician/new_rule_set/section_A
+
+HPARAMS:
+rnn_layer_sizes:   [512, 512]
+one_hot_length:   38
+batch_size:   128
+attn_length:   0

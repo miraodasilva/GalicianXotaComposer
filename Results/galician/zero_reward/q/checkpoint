@@ -1,0 +1,6 @@
+model_checkpoint_path: "/vol/gpudata/rs2517/venv1/myApp/outputs_revised/RL_TUNER_2//galician/zero_reward/q/q-950000"
+all_model_checkpoint_paths: "/vol/gpudata/rs2517/venv1/myApp/outputs_revised/RL_TUNER_2//galician/zero_reward/q/q-850000"
+all_model_checkpoint_paths: "/vol/gpudata/rs2517/venv1/myApp/outputs_revised/RL_TUNER_2//galician/zero_reward/q/q.ckpt-900000"
+all_model_checkpoint_paths: "/vol/gpudata/rs2517/venv1/myApp/outputs_revised/RL_TUNER_2//galician/zero_reward/q/q-900000"
+all_model_checkpoint_paths: "/vol/gpudata/rs2517/venv1/myApp/outputs_revised/RL_TUNER_2//galician/zero_reward/q/q.ckpt-950000"
+all_model_checkpoint_paths: "/vol/gpudata/rs2517/venv1/myApp/outputs_revised/RL_TUNER_2//galician/zero_reward/q/q-950000"

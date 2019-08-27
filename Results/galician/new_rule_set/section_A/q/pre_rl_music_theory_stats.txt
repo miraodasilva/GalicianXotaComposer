@@ -1,0 +1,77 @@
+Total compositions: 1000.0
+Total notes:96000.0
+	Compositions starting with tonic: 83.0
+	Compositions with unique highest note:523.0
+	Compositions with unique lowest note:501.0
+	Number of resolved leaps:1795.0
+	Number of double leaps:467.0
+	Notes not in key:6312.0
+	Notes in motif:76935.0
+	Notes in repeated motif:50.0
+	Notes excessively repeated:1433.0
+
+	Percent compositions starting with tonic:0.083
+	Percent compositions with unique highest note:0.523
+	Percent compositions with unique lowest note:0.501
+	Percent of leaps resolved:0.793545534925
+	Percent notes not in key:0.06575
+	Percent notes in motif:0.80140625
+	Percent notes in repeated motif:0.000520833333333
+	Percent notes excessively repeated:0.0149270833333
+
+	Average autocorrelation of lag1:0.047803217639880616
+	Average autocorrelation of lag2:0.15806400189995864
+	Average autocorrelation of lag3:-0.09793963469349214
+
+	Avg. num octave jumps per composition:0.635
+	Avg. num sevenths per composition:0.699
+	Avg. num fifths per composition:1.229
+	Avg. num sixths per composition:2.308
+	Avg. num fourths per composition:3.796
+	Avg. num rest intervals per composition:2.288
+	Avg. num seconds per composition:20.177
+	Avg. num thirds per composition:2.632
+	Avg. num same note intervals per composition:0.0
+	Avg. num minor seconds per composition:10.886
+	Avg. num minor thirds per composition:9.162
+	Avg. num diminished fifths per composition:0.911
+	Avg. num minor sixths per composition:2.227
+	Avg. num minor sevenths per composition:3.172
+	Avg. num in key fifths per composition:1.151
+	Avg. num in key thirds per composition:1.92
+	Avg. num special rest intervals per composition:1.148
+
+
+	avg. num of correlated intervals in first section: 25.091
+
+	avg. num of larger notes in composition: 0.013
+
+	avg. num of whole notes in composition: 0.009
+
+	avg. num of half notes in composition: 0.134
+
+	avg. num of quarter notes in composition: 1.201
+
+	avg. num of octave notes in composition: 10.055
+
+	avg. num of sixteenth notes in composition: 59.037
+
+	avg. num of early pauses in composition: 0.0
+
+	avg. num of late quarter notes in composition: 0.01
+
+	avg. num of late pauses in composition: 0.0
+
+	avg. num of late note off events in composition: 0.271
+
+	avg. num of last quarter notes in composition: 0.031
+
+	avg. num of late tonics in composition: 0.188
+
+	avg. num of sub tonics followed by tonics in composition: 1.181
+
+	percentage of sub tonics followed by tonics in composition: 0.224524714829
+
+	avg. num of opposite seconds in composition: 3.279
+
+	avg. num of direction changes in composition: 3.778

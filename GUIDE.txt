@@ -1,0 +1,39 @@
+DISCLAIMER: some of the code may include paths to local directories which you will have to replace with your own.
+All the code was run using the following software:
+OS: Ubuntu 16.04 
+Python version: Python 2.7.15
+Pip version: pip 10.0.1
+PIP packages: mentioned in the file requirements.txt
+
+(!) Firstly replace the /melody_rnn and /rl_tuner under your magenta install dir with the ones provided in the repository
+
+How to obtain the Galician dataset (and augment it):
+1. Run Dataset/main.py to obtain the dataset. 
+2. Run augment_dataset.py to augment the dataset.
+(3. You may split it as you want. If you wish to use the same split as us use Dataset/split_train_test.py)
+
+How to obtain the RNN checkpoints needed to train the RL Tuner:
+How to obtain Pre-trained (Magenta) Basic RNN checkpoint:
+1. Download pre-trained mag file (http://download.magenta.tensorflow.org/models/basic_rnn.mag)
+2. Download mag extractor (https://github.com/tensorflow/magenta/blob/master/magenta/scripts/unpack_bundle.py)
+3. Run the extractor (python unpack_bundle.py --bundle_path 'path' --checkpoint_path 'path')
+4. Run Checkpoints/convert_to_rl_tuner.py, saving the checkpoint to the desired directory.
+
+How to train Magenta+Galician RNN:
+1. Load the RL_Tuner with the Magenta Basic RNN checkpoint and save the weights in a checkpoint immediately (no training). This can be done by running save_rl_tuner_checkpoint.sh AFTER following the instructions mentioned at the top of this file.
+2. Run convert_to_melody_rnn.py to convert this checkpoint to the right format.
+3. Place the new checkpoint in a new directory "${OUTPUT_DIR}/train/". Train the basic RNN using ${OUTPUT_DIR} as the output and the Sequence examples in the dataset (augmented or not) as the input. You can use scripts/magenta+galician-rnn_train.sh
+
+How to train Galician RNN:
+1. Run scripts/galician-rnn_train.sh
+
+(Place these checkpoints under your chosen directories in order to train the RL Tuner using them as a baseline)
+
+How to train the RL Tuner (as in paper):
+1. Run scripts/rl_tuner_train_1.sh and scripts/rl_tuner_train_2.sh
+
+How to obtain heatmaps (as in paper):
+1. Run /Heatmaps/heat_map_maker.py
+
+
+

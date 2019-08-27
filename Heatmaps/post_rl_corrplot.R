@@ -1,0 +1,5 @@
+library(corrplot)
+mydata = read.csv("post_rl_heat.csv")
+jpeg("post_rl_heat.jpg",width=5000,height=5000)
+corrplot(as.matrix(mydata), is.corr = FALSE, method = "circle",addCoef.col = "black",number.cex= 70/ncol(mydata),tl.cex=5.0,cl.cex=5.0,cl.lim = c(0, 100),col=colorRampPalette(c("#8200a3","white","#0072ff"))(200))
+dev.off()
