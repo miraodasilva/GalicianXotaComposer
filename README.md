@@ -11,7 +11,7 @@ This piece consists of 6 sections (4 section As and 2 sections Bs) organized as 
 - Ubuntu 16.04
 - Python 2.7
 - pip 10.0.1
-- pip requirements under requirements.txt
+- pip requirements under requirements.txt (this may include more than necessary, the main package necessary for training and testing is magenta-gpu==0.3.8)
 
 ## Dataset
 The dataset in its entirety in MIDI format is listed under Data/files, including the metadata under meta.txt
