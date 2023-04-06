@@ -19,5 +19,8 @@ The dataset in its entirety in MIDI format is listed under Data/files, including
 ## Results
 The RL Tuner results are listed under Results/ for the various configurations mentioned in the paper
 
+## MIDI Pieces for Evaluation
+The full set of MIDI Pieces we used for our Subjective Evaluation study is under MIDI_Pieces_for_Evaluation/
+
 ## Guide
 For details on how to reproduce our methodology, including gathering and preprocessing the dataset, training the models and obtaining the heatmaps portrayed in the paper, check GUIDE.txt
